@@ -2841,3 +2841,5 @@
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/guide-to-data-mining)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/guide-to-data-mining)
 
+## Nim 核心编程
++ [github在线阅读](https://github.com/ScxMes/Core-Nim-programming/blob/master/%E7%9B%AE%E5%BD%95.md)
